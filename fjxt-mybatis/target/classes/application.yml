@@ -1,0 +1,25 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://114.242.29.129:10054/sffj?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  #目的是为了省略resultType里的代码量
+  type-aliases-package: com.sffj2.entity
+
+# 设置root日志级别为INFO
+logging:
+  level:
+    root: info
+    com.example.demo: debug
+  file:
+    name: mylog.log
+  console:
+    enabled: false
+
+

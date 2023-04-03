@@ -1,0 +1,76 @@
+2023-04-03 21:31:16.871 - Starting Application using Java 1.8.0_201 on Colin with PID 3468 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:31:16.879 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:31:18.073 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:31:18.073 - Starting service [Tomcat]
+2023-04-03 21:31:18.073 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:31:18.183 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:31:18.592 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:31:18.781 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:31:18.781 - Documentation plugins bootstrapped
+2023-04-03 21:31:18.796 - Found 1 custom documentation plugin(s)
+2023-04-03 21:31:18.812 - Scanning for api listing references
+2023-04-03 21:31:18.906 - Started Application in 2.586 seconds (JVM running for 3.34)
+2023-04-03 21:31:27.696 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-03 21:31:27.726 - HikariPool-1 - Starting...
+2023-04-03 21:31:28.558 - HikariPool-1 - Start completed.
+2023-04-03 21:32:37.991 - Starting Application using Java 1.8.0_201 on Colin with PID 14428 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:32:37.991 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:32:39.067 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:32:39.067 - Starting service [Tomcat]
+2023-04-03 21:32:39.067 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:32:39.169 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:32:39.577 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:32:39.766 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:32:39.782 - Documentation plugins bootstrapped
+2023-04-03 21:32:39.782 - Found 1 custom documentation plugin(s)
+2023-04-03 21:32:39.813 - Scanning for api listing references
+2023-04-03 21:32:39.892 - Started Application in 2.51 seconds (JVM running for 3.247)
+2023-04-03 21:32:59.739 - Starting Application using Java 1.8.0_201 on Colin with PID 1440 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:32:59.755 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:33:00.838 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:33:00.838 - Starting service [Tomcat]
+2023-04-03 21:33:00.838 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:33:00.947 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:33:01.466 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:33:01.733 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:33:01.764 - Documentation plugins bootstrapped
+2023-04-03 21:33:01.770 - Found 1 custom documentation plugin(s)
+2023-04-03 21:33:01.796 - Scanning for api listing references
+2023-04-03 21:33:01.938 - Started Application in 2.797 seconds (JVM running for 3.58)
+2023-04-03 21:33:23.874 - Starting Application using Java 1.8.0_201 on Colin with PID 24484 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:33:23.882 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:33:26.144 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:33:26.144 - Starting service [Tomcat]
+2023-04-03 21:33:26.144 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:33:26.333 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:33:27.038 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:33:27.352 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:33:27.367 - Documentation plugins bootstrapped
+2023-04-03 21:33:27.383 - Found 1 custom documentation plugin(s)
+2023-04-03 21:33:27.415 - Scanning for api listing references
+2023-04-03 21:33:27.571 - Started Application in 4.885 seconds (JVM running for 5.826)
+2023-04-03 21:34:04.234 - Starting Application using Java 1.8.0_201 on Colin with PID 1164 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:34:04.234 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:34:05.442 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:34:05.458 - Starting service [Tomcat]
+2023-04-03 21:34:05.458 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:34:05.576 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:34:06.133 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:34:06.433 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:34:06.464 - Documentation plugins bootstrapped
+2023-04-03 21:34:06.464 - Found 1 custom documentation plugin(s)
+2023-04-03 21:34:06.511 - Scanning for api listing references
+2023-04-03 21:34:06.684 - Started Application in 3.038 seconds (JVM running for 3.787)
+2023-04-03 21:38:52.521 - Starting Application using Java 1.8.0_201 on Colin with PID 8800 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:38:52.537 - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:38:55.240 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:38:55.240 - Starting service [Tomcat]
+2023-04-03 21:38:55.240 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:38:55.522 - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:38:56.480 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:38:56.873 - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:38:56.889 - Documentation plugins bootstrapped
+2023-04-03 21:38:56.908 - Found 1 custom documentation plugin(s)
+2023-04-03 21:38:56.952 - Scanning for api listing references
+2023-04-03 21:38:57.124 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-03 21:38:57.187 - Started Application in 5.967 seconds (JVM running for 7.979)

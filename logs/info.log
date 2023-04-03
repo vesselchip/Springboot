@@ -1,0 +1,25 @@
+2023-04-03 21:34:04.234 [ main ] - [ INFO  ] [ com.sffj2.Application : 55 ] - Starting Application using Java 1.8.0_201 on Colin with PID 1164 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:34:04.234 [ main ] - [ INFO  ] [ com.sffj2.Application : 631 ] - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:34:05.442 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:34:05.458 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2023-04-03 21:34:05.458 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:34:05.576 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:34:06.133 [ main ] - [ INFO  ] [ s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping : 69 ] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:34:06.433 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:34:06.464 [ main ] - [ INFO  ] [ s.d.s.web.plugins.DocumentationPluginsBootstrapper : 93 ] - Documentation plugins bootstrapped
+2023-04-03 21:34:06.464 [ main ] - [ INFO  ] [ s.d.s.web.plugins.DocumentationPluginsBootstrapper : 79 ] - Found 1 custom documentation plugin(s)
+2023-04-03 21:34:06.511 [ main ] - [ INFO  ] [ s.d.spring.web.scanners.ApiListingReferenceScanner : 44 ] - Scanning for api listing references
+2023-04-03 21:34:06.684 [ main ] - [ INFO  ] [ com.sffj2.Application : 61 ] - Started Application in 3.038 seconds (JVM running for 3.787)
+2023-04-03 21:38:52.521 [ main ] - [ INFO  ] [ com.sffj2.Application : 55 ] - Starting Application using Java 1.8.0_201 on Colin with PID 8800 (D:\java\Java\BHxz\fjxt-mybatis\target\classes started by user in D:\java\Java\BHxz)
+2023-04-03 21:38:52.537 [ main ] - [ INFO  ] [ com.sffj2.Application : 631 ] - No active profile set, falling back to 1 default profile: "default"
+2023-04-03 21:38:55.240 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:38:55.240 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2023-04-03 21:38:55.240 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-04-03 21:38:55.522 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2023-04-03 21:38:56.480 [ main ] - [ INFO  ] [ s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping : 69 ] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2023-04-03 21:38:56.873 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-03 21:38:56.889 [ main ] - [ INFO  ] [ s.d.s.web.plugins.DocumentationPluginsBootstrapper : 93 ] - Documentation plugins bootstrapped
+2023-04-03 21:38:56.908 [ main ] - [ INFO  ] [ s.d.s.web.plugins.DocumentationPluginsBootstrapper : 79 ] - Found 1 custom documentation plugin(s)
+2023-04-03 21:38:56.952 [ main ] - [ INFO  ] [ s.d.spring.web.scanners.ApiListingReferenceScanner : 44 ] - Scanning for api listing references
+2023-04-03 21:38:57.124 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-03 21:38:57.187 [ main ] - [ INFO  ] [ com.sffj2.Application : 61 ] - Started Application in 5.967 seconds (JVM running for 7.979)
